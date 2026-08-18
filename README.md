@@ -16,7 +16,7 @@ I build end-to-end quantitative systems -- from raw market data to live signal g
 | Project | What it is | Key result |
 |---|---|---|
 | [Model Lifecycle OS](https://github.com/ISHAN217/model-lifecycle-os) | Full-stack MRM platform per SR 11-7 / OCC 2011-12. Evidence store, 11-stage lifecycle, AI engine, JWT auth, PDF/Excel export. | **30+ API endpoints** · 89 tests · 5 RBAC roles · [Live Site](https://ishan217.github.io/model-lifecycle-os/) |
-| [CME Systematic Futures Trading System](https://github.com/ISHAN217/CME-Futures-Trading-System) | 5-strategy automated system for ES/NQ/CL futures. Custom backtesting engine, IBKR live integration, 38-check test suite. | OOS Sharpe **4.85** · 5/5 profitable years · 100% fill validity |
+| [CME Systematic Futures Trading System](https://github.com/ISHAN217/CME-Futures-Trading-System) | 5-strategy automated system for ES/NQ/CL futures. Custom backtesting engine, IBKR live integration, 38-check test suite. | OOS Sharpe **2.23** · 5/5 profitable years · 100% fill validity |
 | [MISO Day-Ahead LMP Forecasting](https://github.com/ISHAN217/MISO-LMP-Forecasting) | ML pipeline testing whether net load + stress features improve electricity price forecasting in MISO LRZ4. XGBoost + Ridge vs. naive baselines. | **75% directional accuracy** vs 36% naive · RMSE $11.56/MWh |
 | [Image Captioning -- Transformer](https://github.com/ISHAN217/Caption) | InceptionV3 + Transformer encoder/decoder trained on Flickr8k. Streamlit deployment. | End-to-end vision-language pipeline |
 | [Emojify -- Real-Time Emotion Detection](https://github.com/ISHAN217/Face-to-emoji) | CNN (7-class) + OpenCV webcam feed replaces face with matching emoji in real time. | Live inference · 7 emotions |
